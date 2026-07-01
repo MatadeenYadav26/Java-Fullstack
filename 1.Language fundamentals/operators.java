@@ -1,0 +1,21 @@
+class Operators 
+{
+	public static void main(String[] args) 
+	{
+		//1.Arithmetic Operators:
+		int  a = 15;
+		int b = 2;
+		System.out.println(a+b);
+		System.out.println(a-b);
+		System.out.println(a*b);
+		System.out.println(a/b);
+		System.out.println(a%b);
+		
+		//concatenation:
+		String c = "Aman";
+		String d = "Yadav";
+		System.out.println(c+" "+d);
+		
+		
+	}
+}
