@@ -1,0 +1,36 @@
+class Whileloopexample 
+{
+	public static void main(String[] args) 
+	{
+	//	int i = 1;
+		//int sum =0;
+		//while(i<=10){
+	//	System.out.println("Hello World!");
+	//	System.out.println(i);
+	
+	// sum example: 1to n:-
+		//sum+=i;
+		//i++;
+		//}
+		//System.out.println(sum);
+		
+		//check even or odd from 1 to 10:
+		
+//		while(i<=10){
+//			if(i%2==0){
+//		System.out.println(i);}		
+//		i++;			
+//		}
+
+		int table = 5;
+		int i = 1;
+		
+		while(i<=10){
+			System.out.println(table+"*"+i+"="+table*i);
+			i++;
+		}
+	
+		
+		
+	}
+}

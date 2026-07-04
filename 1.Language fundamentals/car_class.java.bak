@@ -1,0 +1,11 @@
+class car 
+{
+	int speed;
+	String color;
+	
+	
+	void start(){
+		
+				System.out.println("Car started");
+	}
+}
